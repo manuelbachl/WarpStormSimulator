@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/mbachl/.platformio/penv/bin:/Users/mbachl/.platformio/penv:/Users/mbachl/.zplug/repos/zplug/zplug/bin:/Users/mbachl/.zplug/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/opt/X11/bin:/Users/mbachl/Projects/personal/Go/bin:/usr/local/opt/go/libexec/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
